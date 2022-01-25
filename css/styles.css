@@ -102,7 +102,15 @@ nav {
     background-size: cover;
 }
 
+.container__item-4 {
+    background: url(../images/img-four.jpeg) no-repeat 50% 50%;
+    background-size: cover;
+}
 
+.container__item-5 {
+    background: url(../images/img-five.jpeg) no-repeat 50% 50%;
+    background-size: cover;
+}
 
 @media(max-width: 900px) {
     .container__item {
