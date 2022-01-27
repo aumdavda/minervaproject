@@ -98,12 +98,12 @@ nav {
 }
 
 .container__item-3 {
-    background: url(../images/img-three.jpeg) no-repeat 50% 50%;
+    background: url(../images/poster\ thumbnail.png) no-repeat 50% 50%;
     background-size: cover;
 }
 
 .container__item-4 {
-    background: url(../images/img-four.jpeg) no-repeat 50% 50%;
+    background: url(../images/invite\ thumbnail.png) no-repeat 50% 50%;
     background-size: cover;
 }
 
